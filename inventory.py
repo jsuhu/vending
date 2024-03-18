@@ -6,7 +6,7 @@ inventory_list = [
     {"name": "Bag of Chips", "price": 1.25, "quantity": 7},
     {"name": "Bottle of Water", "price": 1.00, "quantity": 3},
 ]
-
+## comment
 inventory_dict = {
     "Coca Cola": [2.00, 5],
     "Snickers Bar": [1.05, 10],

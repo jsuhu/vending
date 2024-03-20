@@ -9,7 +9,7 @@ inventory_list = [
 ## comment
 inventory_dict = {
     "Coca Cola": [2.00, 5],
-    "Snickers Bar": [1.05, 10],
+    "Snickers Bar": [1.50, 10],
     "Bag of Chips": [1.25, 7],
     "Bottle of Water": [1.00, 3]
 }

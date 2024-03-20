@@ -1,4 +1,5 @@
 # inventory.py
+# jsu made changes on xxxx
 
 inventory_list = [
     {"name": "Coca Cola", "price": 2.00, "quantity": 5},
